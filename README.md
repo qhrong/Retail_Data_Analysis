@@ -1,5 +1,7 @@
-# Retail Data Analysis  
-This project's data is downloaded from https://github.com/rpomponio/ecommerce_analytics.  
+# Retail Data Analysis   
+
+This project's data is downloaded from https://github.com/rpomponio/ecommerce_analytics.    
+
 The deliverables of this projects consist of:  
 1. <615_Ecommerce_Final.Rmd> is the main rmd file for coding.  
 2. <615_Ecommerce_FinalReport.pdf> is the report for analysis.  
