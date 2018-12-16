@@ -1,0 +1,13 @@
+name: 615_Final_Project
+title: 615_Final_Project
+username:
+account: qhrong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 618093
+bundleId: 1767148
+url: https://qhrong.shinyapps.io/615_Final_Project/
+when: 1544992951.92724
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history|.RData|615_Ecommerce_Final.Rmd|615_Ecommerce_FinalReport.docx|615_Ecommerce_FinalReport.pdf|615_Officer_Final.Rmd
